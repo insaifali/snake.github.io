@@ -1,6 +1,6 @@
 # Snake Game 🐍
 A classic Snake game implemented using HTML, CSS, and JavaScript. Play the game in your browser and try to beat your high score!
-(screenshot.png)
+![Snake Game Screenshot](screenshot.png)
 
 **About the Game:**
 This is a simple implementation of the classic Snake game. The goal is to control the snake using arrow keys, eat the food to grow longer, and avoid colliding with the walls or yourself. The game keeps track of your score, which increases as you eat more food.
